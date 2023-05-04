@@ -1,0 +1,22 @@
+nav{
+    width: 85vw;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    margin: 1rem;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul{
+    height: 15vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+nav ul li:hover{
+    color: black;
+}
